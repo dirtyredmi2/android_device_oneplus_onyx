@@ -1,3 +1,4 @@
-add_lunch_combo cm_onyx-user
-add_lunch_combo cm_onyx-userdebug
-add_lunch_combo cm_onyx-eng
+add_lunch_combo nitrogen_onyx-user
+add_lunch_combo nitrogen_onyx-userdebug
+add_lunch_combo nitrogen_onyx-eng
+
